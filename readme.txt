@@ -1,27 +1,26 @@
 ################################################################################################
 
-Readme for Obaju : e-commerce template by Bootstrapious - https://bootstrapious.com
+Readme for Etrena: Training website by IHEB CHEBBI
 
 ################################################################################################
 
 Hi,
 
-thank you for downloading. Have fun and tell your friends about us ;)
+thank you for downloading. Have fun and tell your friends about me ;)
 
-Ondrej, Bootstrapious
+Iheb chebbi , tunisia
 
 ---------------------
  pages included
 ---------------------
 
 - Homepage
-- Category listing
-- Product detail
-- Shopping cart
-- Checkout (4 steps)
-- Text page
-- Contact page
-- 404
+- account
+- account pages
+- blog
+- contact
+- login / register
+
 
 ---------------------
  CSS
@@ -79,20 +78,3 @@ Version 1.0 - 2015/02/02
 -----------------------------------------------------------------------------------------
 
 - Initial release
-
----------------------
- LICENSE CONDITIONS
----------------------
-
-You are completely free to use this template for your personal use or as a work for your client as 
-long as you keep the link at the template footer pointing to us and our partner. 
-
-If you would prefer removing the backlink from the theme footer, please donate (https://bootstrapious.com/donate) 
-to support themes' development. Suggested amount per template is $10. 
-Also, as a bonus for donors, I can provide you the SASS files for even easier template customization. 
-Drop me a line at hello@bootstrapious.com after donating.
-
-However you cannot redistribute the template nor its derivatives on the internet - neither 
-for free or commercially (e.g. selling it on template marketplace).
-
-Thank you for understanding and respecting the license conditions.
