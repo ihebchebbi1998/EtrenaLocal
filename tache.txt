@@ -1,0 +1,15 @@
+Etrena login / register V
+finish front end 
+tableau entrainement 
+pdf open place 
+contact working to admin space
+admin users
+
+var registration = `
+     <div class="alert alert-success" role="alert">
+     You have succefuly registred , you can now login to your account.
+</div>
+
+     `;
+
+     document.getElementById("registration").innerHTML = registration;
